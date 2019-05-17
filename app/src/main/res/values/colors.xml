@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="app_main_color">#EC414D</color>
+    <color name="ColorAccentRipple">#33EC414D</color>
+
+    <color name="cardview_shadow_color">#196bcf</color>
+    <color name="color_nav_bar">#64000000</color>
+    <color name="toolbar_shadow_color">#10000000</color>
+
+    <!-- 文本色值 -->
+    <color name="white">@android:color/white</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="text_333333">#333333</color>
+    <!-- 20%透明度-->
+    <color name="text_33333333">#33333333</color>
+    <color name="text_666666">#666666</color>
+    <color name="text_999999">#999999</color>
+    <color name="text_e5e5e5">#e5e5e5</color>
+    <color name="main_20">#33EC414D</color>
+    <color name="ripple_dark">#E0E0E0</color>
+</resources>
